@@ -215,7 +215,3 @@ For issues or questions:
 1. Check the troubleshooting section above
 2. Verify your environment configuration
 3. Check the console logs for detailed error messages
-
----
-
-**Note**: Remember to replace `<db_password>` in the MongoDB URI with your actual database password before running the bot. 
